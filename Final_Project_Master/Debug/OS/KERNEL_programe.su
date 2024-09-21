@@ -1,6 +1,0 @@
-KERNEL_programe.c:25:6:RTOS_start	8	static
-KERNEL_programe.c:35:6:RTOS_createTask	16	static
-KERNEL_programe.c:46:6:RTOS_suspendTask	16	static
-KERNEL_programe.c:52:6:RTOS_resumeTask	16	static
-KERNEL_programe.c:58:6:RTOS_deleteTask	16	static
-KERNEL_programe.c:64:6:RTOS_scheduler	16	static

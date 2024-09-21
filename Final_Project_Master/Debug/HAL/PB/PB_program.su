@@ -1,2 +1,0 @@
-PB_program.c:13:6:HAL_button_vInit	16	static
-PB_program.c:19:9:HAL_button_u8read	16	static
